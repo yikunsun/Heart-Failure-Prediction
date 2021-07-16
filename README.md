@@ -4,7 +4,11 @@
 **In this project, I built 5 machine learning models to predict possible death of patients caused by heart failure. Models with accuracy on testing data are below:**
 
   **Logistic Regression: 86.67%**
+  
   **KNN: 88.33%**
+  
   **Decision Tree: 95%**
+  
   **Random Forest: 93.33%**
+  
   **XGBoost: 93.33%**
